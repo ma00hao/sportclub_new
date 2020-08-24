@@ -1,0 +1,11 @@
+# Project exclude paths
+
+/sport*/target/
+
+# IntelliJ project files
+.idea
+*.iml
+mvnw
+mvnw.cmd
+out
+gen
